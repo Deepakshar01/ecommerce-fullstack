@@ -28,3 +28,14 @@ This is a full stack e-commerce web application developed as part of an internsh
 cd backends
 npm install
 npm run dev
+Frontend
+cd frontend
+npm install
+npm run dev
+
+
+Open browser:
+
+Frontend: http://localhost:5173
+
+Backend API: http://localhost:5000
